@@ -1,0 +1,3 @@
+far = int(input())
+
+print('A long time ago in a galaxy'+' far,'*(far-1)+' far away...')
